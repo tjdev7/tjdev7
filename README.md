@@ -61,11 +61,6 @@ During my spare time, I also maintain 2 online businesses:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tjdev7&theme=prussian)](https://git.io/streak-stats)
 
-
-https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg
-
-
-
 <!--
 **tjdev7/tjdev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
