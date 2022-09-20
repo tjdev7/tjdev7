@@ -25,7 +25,8 @@
 
 During my spare time, I also maintain 2 online businesses:
 
-📱 [Meteroidz - A small mobile media company](https://apiplaza.co)&nbsp;
+📱 [Meteroidz - A small mobile media company](https://apiplaza.co)
+
 💾 [APIplaza - A small API distribution platform](https://meteroidz.co)
 
 ### My tech stack
@@ -52,7 +53,7 @@ During my spare time, I also maintain 2 online businesses:
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/tree/master/icons/vim" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" title="CircleCI" alt="CircleCI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
 
@@ -61,7 +62,7 @@ During my spare time, I also maintain 2 online businesses:
 [![GitHub Streak](https://streak-stats.demolab.com?user=tjdev7&theme=prussian)](https://git.io/streak-stats)
 
 
-
+https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg
 
 
 
