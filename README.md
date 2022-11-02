@@ -29,6 +29,8 @@ During my spare time, I also maintain 2 websites projects:
 
 💾 [APIplaza - A small API distribution platform](https://meteroidz.co)
 
+🐈🐕‍🦺🦜🐠 [PetWarez Inc. - An online pet supply store for all types of pets](https://petwarezinc.com)
+
 ### My tech stack
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -56,7 +58,13 @@ During my spare time, I also maintain 2 websites projects:
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain.svg" title="CircleCI" alt="CircleCI" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="yarn" alt="yarn" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="bulma" alt="bulma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
+                                                                                                                                              
+                                                                                                                                              
+                                                                                                                                                                                                                                                                            
 ### My contributions
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tjdev7&theme=prussian)](https://git.io/streak-stats)
