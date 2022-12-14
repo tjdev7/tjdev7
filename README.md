@@ -65,7 +65,7 @@ During my spare time, I also maintain 2 websites projects:
 <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="bulma" alt="bulma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;                                
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;                                                                                                                                     
+                                                                                                                               
 
 
 
