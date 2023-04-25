@@ -11,7 +11,7 @@
 </div>
 
 
-👨🏽‍💻 I am a: Front End Developer | React Engineer | Mobile App Publisher working mostly in contract projects. 
+👨🏽‍💻 I am a: Full Stack End Developer and Software Developer Consultant. 
 
 🖥 I have experience with Node.js, JavaScript, Python, ExpressJS, HTML5, CSS3, Heroku and React
 
