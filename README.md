@@ -13,6 +13,9 @@
   </a>
 </div>
 
+<br/>
+
+<div class="SkillsFileformatter" align="justify">
 
 👨🏽‍💻 I am a: Senior Full Stack Developer and Software Developer Consultant. 
 
@@ -35,6 +38,8 @@ During my spare time, I also maintain 4 side projects:
 🐈🐕‍🦺🦜🐠 [PetWarez Inc. - An online pet supply store for all types of pets](https://petwarezinc.com)
 
 📋 [DevOpsJobs.app - A job board dedicated to DevOps roles and DevOps related positions](https://devopsjobs.app)
+
+</div>
 
 <div class="Fileformatter" align="center">
 
@@ -80,6 +85,7 @@ During my spare time, I also maintain 4 side projects:
 </div>
 
 <div class="Fileformatter" align="center">
+  
   ### Most used languages 
   
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdev7&theme=blue-green)
