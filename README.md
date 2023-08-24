@@ -29,7 +29,13 @@
 
 ✅ I can make sure that your entire project is well tested, has great documentation included with it, and that you will have no ongoing problems or issues.
 
+
+<div class="Fileformatter" align="center">
+
 ### During my spare time, I also maintain 4 side projects:
+
+</div>
+
 
 📱 [Meteroidz - A small mobile app media company](https://apiplaza.co)
 
