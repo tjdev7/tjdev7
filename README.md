@@ -29,7 +29,7 @@
 
 ✅ I can make sure that your entire project is well tested, has great documentation included with it, and that you will have no ongoing problems or issues.
 
-During my spare time, I also maintain 4 side projects:
+### During my spare time, I also maintain 4 side projects:
 
 📱 [Meteroidz - A small mobile app media company](https://apiplaza.co)
 
