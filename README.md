@@ -1,5 +1,8 @@
+<div class="Fileformatter" align="center">
+
 ### Hello. My name is Mario Jiménez. 👋
 
+</div>
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/marjimenezdev/">
@@ -33,6 +36,8 @@ During my spare time, I also maintain 4 side projects:
 
 📋 [DevOpsJobs.app - A job board dedicated to DevOps roles and DevOps related positions](https://devopsjobs.app)
 
+<div class="Fileformatter" align="center">
+
 ### My tech stack
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -64,12 +69,18 @@ During my spare time, I also maintain 4 side projects:
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="yarn" alt="yarn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="bulma" alt="bulma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" alt="jest" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;                                
-                                                                                                                               
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;                             
+</div>
+
+<div class="Fileformatter" align="center">           
+  
 ### My contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tjdev7&theme=prussian)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tjdev7&theme=prussian)](https://git.io/streak-stats)
+</div>
 
-### My contributions
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdev7&theme=blue-green)
+<div class="Fileformatter" align="center">
+  ### Most used languages 
+  
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdev7&theme=blue-green)
+</div>
