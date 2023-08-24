@@ -87,14 +87,14 @@
 
 <div class="Fileformatter" align="center">           
   
-### My contributions
+## My contributions
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=tjdev7&theme=prussian)](https://git.io/streak-stats)
 </div>
 
 <div class="Fileformatter" align="center">
   
-  ### Most used languages 
+  ## Most used languages 
   
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdev7&theme=blue-green)
 </div>
