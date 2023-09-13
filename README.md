@@ -37,13 +37,15 @@
 </div>
 
 
-📱 [Meteroidz - A small mobile app media company](https://apiplaza.co)
 
-💾 [APIplaza - A small API distribution platform](https://meteroidz.co)
+
+💾 [APIplaza - A SaaS platform that provides Software Developers with RESTful API data from international brands, companies, sports competitions, and national events.](https://meteroidz.co)
 
 🐈🐕‍🦺🦜🐠 [PetWarez Inc. - An online pet supply store for all types of pets](https://petwarezinc.com)
 
 📋 [DevOpsJobs.app - A job board dedicated to DevOps roles and DevOps related positions](https://devopsjobs.app)
+
+📱 [Meteroidz - A small mobile app media company](https://apiplaza.co)
 
 </div>
 
