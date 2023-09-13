@@ -45,7 +45,7 @@
 
 📋 [DevOpsJobs.app](https://devopsjobs.app) - A job board dedicated to DevOps roles and DevOps related positions]
 
-📱 [Meteroidz](https://meteroidz.co) - A small mobile app media company
+📱 [Meteroidz](https://meteroidz.co) - A small mobile app media company currently developing Android apps
 
 </div>
 
