@@ -39,13 +39,13 @@
 
 
 
-💾 [APIplaza - A SaaS platform that provides Software Developers with RESTful API data from international brands, companies, sports competitions, and national events.](https://meteroidz.co)
+💾 [APIplaza](https://apiplaza.co) - A SaaS platform that provides Software Developers with RESTful API data from international brands, companies, sports competitions, and national events.
 
-🐈🐕‍🦺🦜🐠 [PetWarez Inc. - An online pet supply store for all types of pets](https://petwarezinc.com)
+🐈🐕‍🦺🦜🐠 [Petwarez.inc](https://petwarezinc.com) - An e-commerce store offering pet supplies and pet healthcare products.
 
-📋 [DevOpsJobs.app - A job board dedicated to DevOps roles and DevOps related positions](https://devopsjobs.app)
+📋 [DevOpsJobs.app](https://devopsjobs.app) - A job board dedicated to DevOps roles and DevOps related positions]
 
-📱 [Meteroidz - A small mobile app media company](https://apiplaza.co)
+📱 [Meteroidz](https://meteroidz.co) - A small mobile app media company
 
 </div>
 
