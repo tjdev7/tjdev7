@@ -43,7 +43,7 @@
 
 🐈🐕‍🦺🦜🐠 [Petwarez.inc](https://petwarezinc.com) - An e-commerce store offering pet supplies and pet healthcare products.
 
-📋 [DevOpsJobs.app](https://devopsjobs.app) - A job board dedicated to DevOps roles and DevOps related positions]
+📋 [DevOpsJobs.app](https://devopsjobs.app) - A job board dedicated to DevOps roles and DevOps related positions
 
 📱 [Meteroidz](https://meteroidz.co) - A small mobile app media company currently developing Android apps
 
