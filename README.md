@@ -17,7 +17,7 @@
 
 <div class="SkillsFileformatter" align="justify">
 
-👨🏽‍💻 I am a: Senior Full Stack Developer and Software Developer Consultant. 
+👨🏽‍💻 I am a: Full Stack Developer and Software Developer Consultant. 
 
 🖥 I have experience with Node.js, JavaScript, Python, ExpressJS, HTML5, CSS3, Next.js, PHP, Laravel, Vercel, Heroku, and React
 
