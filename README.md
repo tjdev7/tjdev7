@@ -1,11 +1,11 @@
 <div class="Fileformatter" align="center">
 
-# Hello. My name is Mario Jiménez. 👋
+# Hello. My name is Mario Altagracia Jiménez. 👋
 
 </div>
 
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/marjimenezdev/">
+  <a href="https://www.linkedin.com/in/mariojimenez1/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="100"/>
   </a>
   <a href="https://twitter.com/Tjdev7">
@@ -17,9 +17,9 @@
 
 <div class="SkillsFileformatter" align="justify">
 
-👨🏽‍💻 I am a: Full Stack Developer and Software Developer Consultant. 
+👨🏽‍💻 I am a: Front-End Engineer and Software Developer Consultant. 
 
-🖥 I have experience with Node.js, JavaScript, Python, ExpressJS, HTML5, CSS3, Next.js, PHP, Laravel, Vercel, Heroku, and React
+🖥 I have experience with Node.js, JavaScript, Python, ExpressJS, HTML5, CSS3, Next.js, PHP, Laravel, Vercel, Heroku, MongoDB, TypeScript, and React
 
 💻📱 I can make sure that your site is usable and viewable on multiple user platforms. From mobile devices to tablets and desktops.
 
