@@ -17,7 +17,7 @@
 
 <div class="SkillsFileformatter" align="justify">
 
-👨🏽‍💻 I am a Seasoned Senior Software Engineer and Software Development Consultant. 
+👨🏽‍💻 I am a Seasoned Software Engineer and Software Development Consultant. 
 
 🖥 I have experience with Node.js, JavaScript, Python, ExpressJS, HTML5, CSS3, Next.js, PHP, Laravel, Vercel, Heroku, MongoDB, TypeScript, and React
 
