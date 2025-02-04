@@ -93,7 +93,6 @@
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=tjdev7&theme=prussian)](https://git.io/streak-stats)
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=tjdev7)](https://git.io/streak-stats)
 </div>
 
 
